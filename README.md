@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack web dev bootcamp<br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for help with python data analytics, machine learning & computer vision<br>🌱 I’m currently learning postgres, reacts & python<br>📫Inbox me: bryanmurasira@gmail.com<br>💬 Ask me about MERN & python fundamentals<br>⚡ Motto: Victory Loves Preparation
+🔭 I’m currently working on a full stack web dev bootcamp<br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for help with python data analytics, machine learning & computer vision<br>🌱 I’m currently learning postgres, reacts & python<br>💬 Ask me about MERN & python fundamentals<br>📫Inbox me: bryanmurasira@gmail.com<br>⚡ Motto: Victory Loves Preparation
 
 
 ## 🌐 Socials:
